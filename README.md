@@ -9,4 +9,9 @@ In ScaperService class, the code extract the questions from the web page and the
 In ScaperService class, There is a public method named GetQuestionDataList with two string type parameter, first one is the search keyword, and the second one is category. Here extract the questions from the web page and the URL’s of those questions. This will return 10 questions for search keyword in given category.
 
 
+To Run:
+Clone this repository to your local drive.
+Open the scraper.sln file with Visual Studio 2017 or later.
+Run project with Visual Studio.
 
+Frontend for this application can be found at https://github.com/IlmaAfrin/scraper-frontend

@@ -1,0 +1,11 @@
+D:\Mitu\scraper\scraper\bin\Debug\netcoreapp2.0\scraper.deps.json
+D:\Mitu\scraper\scraper\bin\Debug\netcoreapp2.0\scraper.runtimeconfig.json
+D:\Mitu\scraper\scraper\bin\Debug\netcoreapp2.0\scraper.runtimeconfig.dev.json
+D:\Mitu\scraper\scraper\bin\Debug\netcoreapp2.0\scraper.dll
+D:\Mitu\scraper\scraper\bin\Debug\netcoreapp2.0\scraper.pdb
+D:\Mitu\scraper\scraper\obj\Debug\netcoreapp2.0\scraper.csproj.CoreCompileInputs.cache
+D:\Mitu\scraper\scraper\obj\Debug\netcoreapp2.0\scraper.AssemblyInfoInputs.cache
+D:\Mitu\scraper\scraper\obj\Debug\netcoreapp2.0\scraper.AssemblyInfo.cs
+D:\Mitu\scraper\scraper\obj\Debug\netcoreapp2.0\scraper.dll
+D:\Mitu\scraper\scraper\obj\Debug\netcoreapp2.0\scraper.pdb
+D:\Mitu\scraper\scraper\obj\Debug\netcoreapp2.0\scraper.csprojResolveAssemblyReference.cache
